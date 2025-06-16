@@ -38,17 +38,13 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
+  - icon: at-symbol
     link: 'mailto:pieter.de.vis@npl.co.uk'
-  - icon: researchgate
-    icon_pack: ai
+  - icon: academicons/researchgate
     link: https://www.researchgate.net/profile/Pieter-De-Vis
-  - icon: google-scholar
-    icon_pack: ai
+  - icon: academicons/google-scholar
     link: https://scholar.google.com/citations?user=O7SNRRcAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
+  - icon: brands/github
     link: https://github.com/pdevis
     
 # Link to a PDF of your resume/CV from the About widget.
