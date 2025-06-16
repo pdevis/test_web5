@@ -27,8 +27,8 @@ hyperspectral raw data to reflectance and other variables.
 
 
 ## 🗸 Aims
-In order to achieve fiducial reference measurement quality, uncertainties need to be
-propagated through each step of the processing chain, taking into account
+In order to achieve fiducial reference measurement quality, and be optimally useful as a satellite validation reference, uncertainties need to be
+propagated through each step of the HYPERNETS processing chain, taking into account
 temporal and spectral error-covariance.
 
 ## 📋 Data
@@ -40,15 +40,18 @@ These data are stored in different product files from L0-L2B.
 ## 🗸 Uncertainties
 Three uncertainty contributions are tracked throughout the
 processing.
-• Random uncertainty: Uncertainty component arising from the
+
+- Random uncertainty: Uncertainty component arising from the
 noise in the measurements, which does not have any error-correlation
 between different wavelengths or different repeated
 measurements (scans/series/sequences). 
-• Systematic independent uncertainty: Uncertainty component
+  
+- Systematic independent uncertainty: Uncertainty component
 combining a range of different uncertainty contributions in the
 calibration. Only the components for which the errors are not
 correlated between radiance and irradiance are included.
-• Systematic uncertainty correlated between radiance and
+  
+- Systematic uncertainty correlated between radiance and
 irradiance: Uncertainty component combining a range of
 different uncertainty contributions in the calibration. Only
 the components for which the errors are correlated between

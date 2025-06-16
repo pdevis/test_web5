@@ -20,7 +20,7 @@ main:
   - parent: User Guide
     name: Examples
     url: user-guide/examples/
-    weight: 42
+    weight: 45
   - parent: User Guide
     name: Theory
     url:  user-guide/theory/
@@ -29,6 +29,10 @@ main:
     name: Case Studies
     url: user-guide/case-studies/
     weight: 44
+  - parent: User Guide
+    name: Training
+    url: user-guide/training/
+    weight: 46
   - name: Tools
     url: /#tools
     weight: 30
