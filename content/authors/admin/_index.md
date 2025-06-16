@@ -62,6 +62,8 @@ user_groups:
   - Lead Developers
 ---
 
+Pieter De Vis is one of the lead developers of the CoMet toolkit. He implemented the [**punpy**](tools\punpy) and [**comet_maths**](tools\comet_maths) tools.
+
 Pieter De Vis works in the Climate and Earth Observation Group at the UK's National Physical Laboratory,where he focuses on atmospheric correction, satellite cal/val, the propagation of uncertainties through a measurement function, and uncertainties in model fitting. He is an experienced programmer and has developed many modular python tools for both internal and external use. He has applied this expertise to quantify uncertainties in various fields, including ocean color, greenhouse gases, and surface reflectances.
 
 His background is in astronomy, where he focused on cosmic dust in galaxies. In 2019, he made the switch to Earth Observation, a topic that shares many concepts with astronomy, particularly with how light travels through the atmosphere. 

@@ -68,5 +68,8 @@ user_groups:
   - Lead Developers
 ---
 
-Samuel E. Hunt received the master’s degree in physics from the University of Durham, Durham, U.K., in 2014.
+Samuel E. Hunt is one of the lead developers of the CoMet toolkit. He implemented the [**obsarray**](tools\obsarray) tool.
+
+Sam received the master’s degree in physics from the University of Durham, Durham, U.K., in 2014.
+
 He was a Trainee with European Space Agency, European Space Research and Technology Centre, Noordwijk, The Netherlands. He was a part of the Sentinel-3/OLCI Performance Team. In 2016, he joined the National Physical Laboratory, Teddington, U.K., where he is currently a Senior Research Scientist focusing on the satellite Earth Observation metrology. His work aims to improve the quality of and confidence in satellite Earth observations, using insights from metrology.
