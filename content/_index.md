@@ -82,15 +82,15 @@ sections:
       text: A list of tools which abstract away the complexity of dealing with uncertainties.
       items:
         - name: punpy
-          icon: "custom/punpy"
+          icon: code-bracket
           description: propagates uncertainties on input quantities through any python function, evaluating the uncertainty on the output
           url: tools/punpy     
         - name: obsarray
-          icon: "custom/obsarray"
+          icon: custom/obsarray
           description: an extension to xarray for defining, storing and interfacing with uncertainty and measurement error-covariance information in NetCDF files using standardised metadata
           url: tools/obsarray
         - name: comet_maths
-          icon: "custom/comet-maths"
+          icon: sparkles
           description: useful mathematical algorithms, including interpolation with uncertainties
           url: tools/comet_maths
     design:
