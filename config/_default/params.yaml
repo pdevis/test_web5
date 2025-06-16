@@ -30,7 +30,7 @@ marketing:
 header:
   navbar:
     enable: true
-    blox: "navbar"
+    blox: "navbar2"
     align: "center"
     fixed_to_top: true
     logo:
@@ -38,7 +38,7 @@ header:
       # Logo filename in `assets/media/` folder
       filename: "logo.svg"
     button:
-      enable: true
+      enable: False
       text: "Get Started"
       url: "https://hugoblox.com/templates/"
     show_search: true
@@ -47,7 +47,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company'
+    notice: '© {year} NPL'
 
 # Localization
 locale:

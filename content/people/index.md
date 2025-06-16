@@ -1,58 +1,58 @@
-[comment]: <> (---)
+---
 
-[comment]: <> (title: Meet the Team)
+title: Meet the Team
 
-[comment]: <> (type: landing)
+type: landing
 
-[comment]: <> (#widget: people)
+#widget: people
 
-[comment]: <> (#headless: true)
+#headless: true
 
-[comment]: <> (#weight: 68)
+#weight: 68
 
 
-[comment]: <> (sections:)
+sections:
 
-[comment]: <> (  - block: people)
+  - block: people
 
-[comment]: <> (    content:)
+    content:
 
-[comment]: <> (      title: Meet the Team)
+      title: Meet the Team
 
-[comment]: <> (      # Choose which groups/teams of users to display.)
+      # Choose which groups/teams of users to display.
 
-[comment]: <> (      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.)
+      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
 
-[comment]: <> (      user_groups:)
+      user_groups:
 
-[comment]: <> (        - Lead Developers)
+        - Lead Developers
 
-[comment]: <> (        - Developers)
+        - Developers
 
-[comment]: <> (        - Testers)
+        - Testers
 
-[comment]: <> (        - Contributors)
+        - Contributors
 
-[comment]: <> (      sort_by: Params.last_name)
+      sort_by: Params.last_name
 
-[comment]: <> (      sort_ascending: true)
+      sort_ascending: true
 
-[comment]: <> (    design:)
+    design:
 
-[comment]: <> (      # Show user's social networking links? &#40;true/false&#41;)
+      # Show user's social networking links? (true/false)
 
-[comment]: <> (      show_social: false)
+      show_social: false
 
-[comment]: <> (      # Show user's interests? &#40;true/false&#41;)
+      # Show user's interests? (true/false)
 
-[comment]: <> (      show_interests: true)
+      show_interests: true
 
-[comment]: <> (      # Show user's role?)
+      # Show user's role?
 
-[comment]: <> (      show_role: true)
+      show_role: true
 
-[comment]: <> (      # Show user's organizations/affiliations?)
+      # Show user's organizations/affiliations?
 
-[comment]: <> (      show_organizations: true)
+      show_organizations: true
 
-[comment]: <> (---)
+---
