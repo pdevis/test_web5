@@ -13,7 +13,7 @@ type: landing
 
 sections:
 
-  - block: resume-biography
+  - block: resume-biography-3
     content:
       # The user's folder name in `content/authors/`
       username: admin
