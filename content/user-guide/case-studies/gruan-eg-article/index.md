@@ -13,7 +13,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-# 🎈 Background
+## 🎈 Background
 
 **Global Climate Observing System (GCOS)** ensures access to long-term climate observations. Within GCOS, the **GCOS Reference Upper-Air Network (GRUAN)** plays a key role by providing reference-quality atmospheric balloon data.
 
