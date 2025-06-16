@@ -13,46 +13,20 @@ type: landing
 
 sections:
 
-  - block: people
-
+  - block: resume-biography
     content:
-
-      title: Meet the Team
-
-      # Choose which groups/teams of users to display.
-
-      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-
-      user_groups:
-
-        - Lead Developers
-
-        - Developers
-
-        - Testers
-
-        - Contributors
-
-      sort_by: Params.last_name
-
-      sort_ascending: true
-
+      # The user's folder name in `content/authors/`
+      username: admin
+      # Show a call-to-action button under your biography? (optional)
+      # To link to a file, upload it to your `static/uploads/` folder
+      # button:
+      #  text: Download Résumé
+      #  url: uploads/resume.pdf
     design:
-
-      # Show user's social networking links? (true/false)
-
-      show_social: false
-
-      # Show user's interests? (true/false)
-
-      show_interests: true
-
-      # Show user's role?
-
-      show_role: true
-
-      # Show user's organizations/affiliations?
-
-      show_organizations: true
-
+      banner:
+        # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
+        filename: ''
+      biography:
+        # Customize the CSS style of your biography text (optional)
+        style: ''
 ---
