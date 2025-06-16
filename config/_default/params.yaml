@@ -33,16 +33,21 @@ header:
     blox: "navbar"
     align: "center"
     fixed_to_top: true
+    #show_logo: true
+    show_day_night: true
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+      filename: "logo.png"
+      width: 2732px
+      height: auto
     button:
-      enable: False
+      enable: false
       text: "Get Started"
       url: "https://hugoblox.com/templates/"
     show_search: true
     show_theme_chooser: true
+    highlight_active_link: true
 
 # Site footer
 footer:
