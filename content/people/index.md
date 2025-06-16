@@ -30,7 +30,7 @@ sections:
         # Customize the CSS style of your biography text (optional)
         style: ''
     
-- block: resume-biography
+  - block: resume-biography
     content:
       # The user's folder name in `content/authors/`
       username: SamHunt
@@ -47,7 +47,7 @@ sections:
         # Customize the CSS style of your biography text (optional)
         style: ''
   
-- block: resume-biography
+  - block: resume-biography
     content:
       # The user's folder name in `content/authors/`
       username: RasmaOrmane
@@ -64,7 +64,7 @@ sections:
         # Customize the CSS style of your biography text (optional)
         style: ''
   
-- block: resume-biography
+  - block: resume-biography
     content:
       # The user's folder name in `content/authors/`
       username: MaddieStedman
