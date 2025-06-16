@@ -1,15 +1,15 @@
----
+[comment]: <> (---)
 
-# Generate Decap CMS
+[comment]: <> (# Generate Decap CMS)
 
-type: decap_cms
+[comment]: <> (type: decap_cms)
 
-private: true
+[comment]: <> (private: true)
 
-outputs:
+[comment]: <> (outputs:)
 
-  - decap_cms_config
+[comment]: <> (  - decap_cms_config)
 
-  - HTML
+[comment]: <> (  - HTML)
 
----
+[comment]: <> (---)
