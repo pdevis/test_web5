@@ -67,3 +67,5 @@ email: ''
 user_groups:
   - Contributors
 ---
+
+As a scientist in the Climate and Earth Observation Group at the UK's National Physical Laboratory Maddie's working to develop algorithms and evaluate the performance of satellite cross-calibration. In particular her work supports ESA's TRUTHS climate satellite mission.
