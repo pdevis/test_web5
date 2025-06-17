@@ -68,7 +68,7 @@ user_groups:
   - Lead Developers
 ---
 
-Samuel E. Hunt is one of the lead developers of the CoMet toolkit. He implemented the [**obsarray**](/tools/obsarray) tool.
+Samuel E. Hunt is one of the lead developers of the CoMet toolkit. He implemented the [**obsarray**](tools/obsarray) tool.
 
 Sam received the master’s degree in physics from the University of Durham, Durham, U.K., in 2014.
 
