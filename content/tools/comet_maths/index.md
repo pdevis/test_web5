@@ -3,6 +3,8 @@ title: comet_maths
 
 authors:
   - admin
+date: 2024-03-19
+
 ---
 
 ## ❔ What is *comet_maths*?

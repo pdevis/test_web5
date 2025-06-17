@@ -9,6 +9,7 @@ title: obsarray
 
 authors:
   - admin
+date: 2024-03-19
 ---
 
 ## ❔ What is *obsarray*?
