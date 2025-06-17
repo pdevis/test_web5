@@ -1,6 +1,6 @@
 ---
-title: Welcome to CoMet Toolkit!
-summary: What is CoMet Toolkit and what can it be used for?
+title: Welcome to the CoMet Toolkit!
+summary: What is the CoMet Toolkit and what can it be used for?
 date: 2024-03-19
 
 # Featured image
@@ -20,7 +20,7 @@ authors:
 
 <!-- Welcome 👋 -->
 
-## ❔ What is CoMet Toolkit?
+## ❔ What is the CoMet Toolkit?
 
   The **Community Metrology** (CoMet) **Toolkit** is a set of open-source software tools that can handle, process, and store measurement data uncertainties and error-correlation information.
  
@@ -28,7 +28,7 @@ authors:
   
   This is done in a way that allows the user to use quality assured code, while most of the complexities are handled behind the scenes. This simplifies dealing with uncertainties for experienced and less experienced users alike.  
 
-## 💡 Why is CoMet Toolkit relevant?
+## 💡 Why is the CoMet Toolkit relevant?
 
   To ensure credible and reliable interpretation of data, the associated uncertainty information ought to be provided. Oftentimes it is made up of a multitude of sources combined through the processing chain. Each source affects the final product at varying levels.
   
@@ -46,9 +46,9 @@ authors:
 - different probability distribution functions
 - _many more_
 
-## 📋 What can CoMet Toolkit be used for?
+## 📋 What can the CoMet Toolkit be used for?
 
-CoMet toolkit can be used to:
+The CoMet toolkit can be used to:
   
 - define measurement functions in Python
 - propagate uncertainties 
